@@ -87,7 +87,7 @@
 
 - 💼 LinkedIn: https://linkedin.com/in/divam-dubey/
 - 🧠 LeetCode: https://leetcode.com/u/devdiv03/
-- 📧 Email: your-divamdubey@gmail.com
+- 📧 Email: divamdubey@gmail.com
 
 ⭐ **Open to internships & full-time SDE opportunities**
 
