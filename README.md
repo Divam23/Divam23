@@ -12,7 +12,7 @@
 -  Currently working on **NoteX – Peer-to-Peer Note Sharing Platform**
 -  Learning **System Design, Advanced Backend & DSA**
 -  Strong interest in **APIs, Databases & Scalable Systems**
--  Goal: **Software Engineer role in 2025**
+-  Goal: **Software Engineer role in 2026**
 
 ## 🛠️ Tech Stack
 
