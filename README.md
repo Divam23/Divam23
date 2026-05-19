@@ -1,100 +1,120 @@
-# Hi 👋, I'm Divam
+# Hi 👋, I'm Divam Dubey
 
- Final Year B.Tech CSE Student  
- Aspiring Software Development Engineer (SDE)  
- Backend & Full-Stack Developer  
- Building scalable, real-world applications
+### Software Engineer | Backend & Full-Stack Developer  
+Building scalable applications, backend systems, and real-world products.
 
-## 🧑‍💻 About Me
+---
 
--  Final year **Computer Science Engineering** student  
--  Targeting **SDE / Backend / Full-Stack** roles  
--  Currently working on **NoteX – Peer-to-Peer Note Sharing Platform**
--  Learning **System Design, Advanced Backend & DSA**
--  Strong interest in **APIs, Databases & Scalable Systems**
--  Goal: **Software Engineer role in 2026**
+## 💫 About Me
+
+- 🎓 B.Tech Graduate in Computer Science Engineering
+- 💻 Focused on Backend Engineering, Full-Stack Development & System Design
+- 🚀 Currently building **ClustraNotes** — a scalable peer-to-peer student note sharing platform
+- 🧠 Interested in distributed systems, APIs, databases & real-time architectures
+- 📚 Practicing DSA and continuously improving problem-solving skills
+- 🎯 Seeking Software Engineer / Backend Engineer opportunities
+
+---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-- JavaScript
-- Python
-- Dart
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,dart,java" />
+</p>
 
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- Firebase Authentication
-- Prisma ORM
+### Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,prisma,docker" />
+</p>
+
+### Frontend & Mobile
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,flutter,tailwind,html,css" />
+</p>
 
 ### Databases
-- MongoDB
-- Firestore
-- PostgreSQL (Basics)
-
-### Frontend
-- React
-- Flutter
-- HTML, CSS, Tailwind CSS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase" />
+</p>
 
 ### Tools & Platforms
-- Git & GitHub
-- Postman
-- VS Code
-- Firebase
-- Docker (Basics)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</p>
 
-## Featured Projects
+---
 
-### 📘 NoteX (Major Project)
-**Peer-to-Peer Note & Book Sharing Platform**
+# 🚀 Featured Projects
 
-**Tech:** Flutter, Firebase, MongoDB, ML  
-- Real-time notes & resource sharing  
-- Engagement metrics (likes, bookmarks, quality score) 
-- Secure authentication & role-based access  
+## 📘 ClustraNotes
+### Peer-to-Peer Student Note Sharing Platform
 
-### 💘 PartnerUp
-**College-Focused Dating App**
+**Tech Stack:** Flutter • Firebase • MongoDB • Python ML
 
-**Tech:** Node.js, Firebase Auth, Prisma  
-- Swipe-based matching system  
-- Real-time chat & notifications  
-- College verification & moderation features  
+- Real-time note & resource sharing platform
+- Advanced engagement metrics and recommendation logic
+- Hybrid Firebase + MongoDB architecture
+- ML-based moderation and recommendation workflows
+- Scalable backend with role-based access control
 
-### 🍔 Food Delivery App
-**Full-Stack MERN Application**
+---
 
-**Tech:** MongoDB, Express, React, Node.js  
-- Role-based users (Customer / Restaurant Owner)  
-- Location-based restaurant discovery  
-- Cart, order & checkout flow  
+## 🍔 Food Delivery App
+### Full-Stack MERN Application
 
-## 🧠 DSA & Problem Solving
+**Tech Stack:** MongoDB • Express • React • Node.js
 
-- 📌 Practicing **Striver SDE Sheet**
-- 📌 Solving **NeetCode 150**
-- 📌 Focus on **arrays, strings, hashing, trees & graphs**
+- Location-based restaurant discovery
+- Role-based authentication & authorization
+- Cart, order & checkout workflows
+- Restaurant owner dashboard and management system
 
-## 📊 GitHub Stats
+---
 
-![Divam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divam23&show_icons=true&theme=tokyonight)
+## 🧠 Problem Solving & Learning
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divam23&layout=compact&theme=tokyonight)
+- Solving **NeetCode 150** and **Striver SDE Sheet**
+- Learning scalable backend and system design patterns
+- Areas of interest:
+  - Distributed Systems
+  - Backend Optimization
+  - APIs & Databases
+  - Real-Time Architectures
+  - Scalable Infrastructure
 
-## 📫 Connect With Me
+---
 
-- 💼 LinkedIn: https://linkedin.com/in/divam-dubey/
-- 🧠 LeetCode: https://leetcode.com/u/devdiv03/
-- 📧 Email: divamdubey@gmail.com
+# 📊 GitHub Stats
 
-⭐ **Open to internships & full-time SDE opportunities**
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Divam23&show_icons=true&theme=tokyonight" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divam23&layout=compact&theme=tokyonight" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+---
 
+# 🌐 Connect With Me
 
-![Profile Views](https://komarev.com/ghpvc/?username=Divam23&color=blue)
+<p align="left">
+  <a href="https://linkedin.com/in/divam-dubey/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  
+  <a href="https://leetcode.com/u/devdiv03/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48" />
+  </a>
 
+  <a href="https://divamdubey.app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+📧 **Email:** divamdubey@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Divam23&color=blue&style=flat" />
+</p>
