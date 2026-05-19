@@ -1,18 +1,18 @@
-# Hi 👋, I'm Divam Dubey
+# Hi, I'm Divam Dubey
 
 ### Software Engineer | Backend & Full-Stack Developer  
 Building scalable applications, backend systems, and real-world products.
 
 ---
 
-## 💫 About Me
+##  About Me
 
-- 🎓 B.Tech Graduate in Computer Science Engineering
-- 💻 Focused on Backend Engineering, Full-Stack Development & System Design
-- 🚀 Currently building **ClustraNotes** — a scalable peer-to-peer student note sharing platform
-- 🧠 Interested in distributed systems, APIs, databases & real-time architectures
-- 📚 Practicing DSA and continuously improving problem-solving skills
-- 🎯 Seeking Software Engineer / Backend Engineer opportunities
+-  B.Tech Graduate in Computer Science Engineering
+-  Focused on Backend Engineering, Full-Stack Development & System Design
+-  Currently building **ClustraNotes** — a scalable peer-to-peer student note sharing platform
+-  Interested in distributed systems, APIs, databases & real-time architectures
+-  Practicing DSA and continuously improving problem-solving skills
+-  Seeking Software Engineer / Backend Engineer opportunities
 
 ---
 
@@ -45,7 +45,7 @@ Building scalable applications, backend systems, and real-world products.
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 ## 📘 ClustraNotes
 ### Peer-to-Peer Student Note Sharing Platform
